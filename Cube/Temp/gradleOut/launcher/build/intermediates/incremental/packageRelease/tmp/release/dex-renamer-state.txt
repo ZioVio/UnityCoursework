@@ -1,0 +1,4 @@
+#Sun Oct 17 10:26:09 EEST 2021
+base.0=/Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
