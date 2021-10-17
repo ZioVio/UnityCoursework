@@ -111,7 +111,7 @@
 62-->/Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:5-101
 63            android:name="unity.build-id"
 63-->/Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:16-45
-64            android:value="053c5b0a-6461-4f17-a5df-006fd0ba4912" />
+64            android:value="f7df2238-ec68-4e31-a13c-438d4b7b7a95" />
 64-->/Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:46-98
 65    </application>
 66

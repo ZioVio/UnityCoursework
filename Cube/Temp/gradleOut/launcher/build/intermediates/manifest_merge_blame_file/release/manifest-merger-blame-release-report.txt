@@ -130,7 +130,7 @@
 72-->[:unityLibrary] /Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:68
 73            android:name="unity.build-id"
 73-->[:unityLibrary] /Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-42
-74            android:value="053c5b0a-6461-4f17-a5df-006fd0ba4912" />
+74            android:value="f7df2238-ec68-4e31-a13c-438d4b7b7a95" />
 74-->[:unityLibrary] /Users/Andrii_Koval1/Documents/study/multimedia/coursework/Cube/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-65
 75    </application>
 76
